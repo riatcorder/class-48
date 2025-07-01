@@ -1,5 +1,5 @@
 import React from 'react'
-import Pricecard from '../reuseable/pricecard'
+import Pricecard from '../reuseable/Pricecard'
 import Container from '../Container'
 
 const Pricingban = () => {
